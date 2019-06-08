@@ -88,4 +88,4 @@ if (cmd === `${prefix}dmessage`) { //هذا الكوماند يمسحلك الأ
   }
 })
  
-client.login("NTg2NTg0NTg0Mzg1MjAwMTcz.XPsuqg.g9pqiS8EPRQClJmq0sZ23xbXUWw")
+client.login(process.env.BOT_TOKEN);
